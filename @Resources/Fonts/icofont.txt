@@ -1,0 +1,19 @@
+icofont made by Ollyo
+
+Licenses:
+    Font: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+    Other: MIT License (http://opensource.org/licenses/mit-license.html)
+
+Website : https://www.icofont.com/
+
+---
+
+Icons used in this widget:
+
+Binocular		eebd
+Camera			eecf
+Dashboard		eefa
+Infinite		ef4d
+User			ed05
+Warning			f026
+Solar Energy	e997
