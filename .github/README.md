@@ -62,19 +62,18 @@ Open **Settings.inc** located inside the **@Resources** directory and edit the f
 
 **Widget:** Licensed under GNU GPLv3 by HellPC
 
-**SysColor.dll:** Licensed under GNU GPLv2 or later (GPLv2+) by Brian Ferguson
+**SysColor.dll:** Licensed under GNU GPLv2 or later (GPLv2+) by [Brian Ferguson](https://github.com/brianferguson/SysColor.dll/)
 
-**Weather Icons font:** By Erik Flower ([website](https://erikflowers.github.io/weather-icons/))
+**Weather Icons font:** By [Erik Flower](https://erikflowers.github.io/weather-icons/)
 - Font: [SIL OFL 1.1](http://scripts.sil.org/OFL)
 - Code: [MIT License](http://opensource.org/licenses/mit-license.html)
 - Documentation: [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
 
-**icofont:** By Ollyo ([website](https://www.icofont.com/))
+**icofont:** By [Ollyo](https://www.icofont.com/)
 - Font: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - Other: [MIT License](http://opensource.org/licenses/mit-license.html)
 
 **Weather icons:** The icons provided in this widget are a mix of untouched ones found on random free png websites years ago, some I modified, and some I created from scratch.  
 I apologize if you recognize your work, but I have absolutely no memory of their origin. If you want to regain credit or have them removed, please contact me.
 
-**Weather data provider:** Visual Crossing  
-[https://www.visualcrossing.com/](https://www.visualcrossing.com/)
+**Weather data provider:** [Visual Crossing](https://www.visualcrossing.com/)
